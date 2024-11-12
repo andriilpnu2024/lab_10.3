@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\PR-10.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C940666-816E-45B7-8D34-BE633318A4E0}|PR-10.3\\PR-10.3.vcxproj|C:\\Users\\Lenovo\\source\\repos\\PR-10.3\\PR-10.3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C940666-816E-45B7-8D34-BE633318A4E0}|PR-10.3\\PR-10.3.vcxproj|solutionrelative:PR-10.3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7554012-FBB5-4506-BE74-0F5BA254193E}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Lenovo\\source\\repos\\PR-10.3\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7554012-FBB5-4506-BE74-0F5BA254193E}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PR-10.3\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PR-10.3\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T19:45:45.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PR-10.3\\PR-10.3\\Source.cpp",
+              "RelativeDocumentMoniker": "PR-10.3\\Source.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PR-10.3\\PR-10.3\\Source.cpp",
+              "RelativeToolTip": "PR-10.3\\Source.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAALEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T18:08:20.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
